@@ -86,14 +86,14 @@ export default function App() {
           <div className="flex items-center gap-3">
             <a
               className="text-xl hover:text-blue-500 dark:hover:text-blue-300"
-              href="mailto:veeranjaneyulu@example.com"
+              href="mailto:kammanethulaveeranajneyulu@gmail.com"
               aria-label="email"
             >
               <FaEnvelope />
             </a>
             <a
               className="text-xl hover:text-blue-500 dark:hover:text-blue-300"
-              href="https://github.com/veeranjaneyulu"
+              href="https://github.com/veeranjaneyulu12345"
               target="_blank"
               rel="noreferrer"
               aria-label="github"
@@ -102,7 +102,7 @@ export default function App() {
             </a>
             <a
               className="text-xl hover:text-blue-500 dark:hover:text-blue-300"
-              href="https://linkedin.com/in/veeranjaneyulu"
+              href="https://www.linkedin.com/in/veeranjaneyulu-kammanetula-178a24250/"
               target="_blank"
               rel="noreferrer"
               aria-label="linkedin"
