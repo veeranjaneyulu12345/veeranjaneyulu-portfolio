@@ -307,7 +307,7 @@ export default function App() {
                 title: "VLSI Intern",
                 tech: "Organic Semiconductor Fabrication, Circuit simulation, Data Analysis, Research, VLSI",
                 desc: "Worked on simulations."
-              },
+              }
             ].map((p) => (
               <motion.article
                 key={p.title}
@@ -337,7 +337,7 @@ export default function App() {
           <h3 className="text-xl font-semibold mb-4">Extra-Curricular Activities</h3>
           <ul className="list-disc list-inside text-gray-700 dark:text-gray-300 space-y-2">
             <li>Joint Secretary, ECE Association</li>
-            <li>Executive Member, Nature and Value Education Club</li>
+            <li>Executive Member, Nature and Valued Education Club</li>
             <li>Executive Member, Artificial Intelligence and Robotics Club</li>
           </ul>
         </section>
@@ -352,7 +352,7 @@ export default function App() {
 
           <div className="flex flex-col sm:flex-row sm:items-center gap-4">
             <a
-              href="mailto:veeranjaneyulu@example.com"
+              href="mailto:kammanethulaveeranjaneyulu@gmail.com"
               className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition"
             >
               <FaEnvelope /> Email
@@ -379,7 +379,7 @@ export default function App() {
         </section>
 
         <footer className="py-10 text-center text-sm text-gray-500 dark:text-gray-400">
-          © {new Date().getFullYear()} Veeranjaneyulu K — Built with React + Vite + Tailwind
+          © {new Date().getFullYear()} Veeranjaneyulu K
         </footer>
       </main>
     </div>
