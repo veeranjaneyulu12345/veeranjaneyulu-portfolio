@@ -1,0 +1,12 @@
+/* stylelint-disable */
+/* tailwindcss v4 directives */
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* stylelint-enable */
+
+html {
+  transition: background-color 0.4s, color 0.4s;
+}
+
