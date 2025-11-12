@@ -359,7 +359,7 @@ export default function App() {
             </a>
 
             <a
-              href="https://github.com/veeranjaneyulu"
+              href="https://github.com/veeranjaneyulu12345"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition"
@@ -368,7 +368,7 @@ export default function App() {
             </a>
 
             <a
-              href="https://linkedin.com/in/veeranjaneyulu"
+              href="https://www.linkedin.com/in/veeranjaneyulu-kammanetula-178a24250/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 transition"
