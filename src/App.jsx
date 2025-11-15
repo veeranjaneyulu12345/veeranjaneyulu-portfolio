@@ -10,7 +10,7 @@ import {
 } from "react-icons/fa";
 
 const resumeUrl =
-  "https://drive.google.com/file/d/1O9X8rPLmVhjdRYu-v4RpGlgVzKpC9-Dt/view?usp=drivesdk";
+  "https://drive.google.com/file/d/1ZD-y6iQ41ThMiumKQrc13w3_rjYwAlBQ/view?usp=drivesdk";
 
 const navItems = [
   { id: "about", label: "About" },
