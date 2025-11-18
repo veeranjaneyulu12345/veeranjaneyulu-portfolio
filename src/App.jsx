@@ -152,7 +152,7 @@ export default function App() {
             transition={{ delay: 0.2 }}
             className="mt-4 text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl"
           >
-            Cloud | DevOps | VLSI | Frontend Developer
+            Cloud | DevOps |  Frontend Developer
           </motion.p>
 
           <motion.div
